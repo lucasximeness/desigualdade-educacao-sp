@@ -31,7 +31,12 @@ O objetivo dessa análise é compreender a desigualdade nas diretorias de ensino
       
       **Obs 2:** Todos os demais índices foram análisados, porém só vamos usar no infográfico os que realmente tiveram algum destaque, que são os citados acima. 
       
-      
+ 
+ Optei por manter as análises isoladas para facilitar a compreensão do leitor. Assim, cada índice será apresentado de uma vez, e o texto vai orientar o leitor a correlacionar por conta própria. 
+ 
+ De fato, o mais interessante da análise é que os principais dados analisados realmente se correlacionam. O INSE está diretamente ligado a nota do IDESP. Ambos se relacionam a Taxa de Aprovação, Distorção idadade-série e Taxa de Abandono. Os índices de Média de Hora Aula e Média de Alunos por turma também apresentaram correlação com os demais dados, mas não vamos utilizá-los no infográfico pois acabaram sendo fatores secundários (O INSE explica muito mais a situação de cada diretoria de ensino do que a Média de alunos por turma, por exemplo)
+ 
+ Do mais, a única análise com mais de um índice que fizemos foi um Heatmap de correlação de Pearson, que nos orientou para tirar as conclusões acima. Ainda não decidimos se colocaremos o heatmap no infográfico, pela complexidade da leitura. 
 
  
 
